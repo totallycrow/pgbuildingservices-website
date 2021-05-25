@@ -28,7 +28,7 @@ const Navbar = () => {
       <div
         className={
           mobileOpen
-            ? "display:block container bg-gray-600 bg-opacity-75 mx-auto h-40 flex justify-center items-center content-center md:hidden"
+            ? "display:block container bg-gray-600 bg-opacity-75 mx-auto h-40 flex justify-center items-center content-center md:hidden text-center"
             : "hidden"
         }
       >
