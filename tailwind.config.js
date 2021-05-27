@@ -15,6 +15,20 @@ module.exports = {
         "90v": "90vh",
         "100v": "100vh",
       },
+      backgroundImage: theme => ({
+        'bg-img': "url('/back1.jpg')",
+        'bg-model': "url('/model.jpeg')",
+
+        
+       }),
+
+       fontFamily: {
+        
+        'roboto': '"Roboto", Helvetica, Arial, sans-serif',
+        'monts': '"Montserrat", Helvetica, Arial, sans-serif',
+      },
+       
+
     },
     
   },
