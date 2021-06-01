@@ -5,7 +5,7 @@ const Navbar = () => {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <div className="text-gray-600 fixed w-full ">
+    <div className="text-gray-600  w-full ">
       <nav
         className="h-10 bg-blue-500 z-10 shadow-2xl 
       

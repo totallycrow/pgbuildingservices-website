@@ -5,7 +5,7 @@ const Hero = () => {
     // MAIN DIV
 
     <div
-      className="bg-blue-400 h-80v w-screen bg-center bg-cover bg-no-repeat block flex"
+      className="bg-blue-400 h-80v bg-center bg-cover bg-no-repeat block flex"
       style={{
         "background-image":
           "linear-gradient(rgba(255, 255, 255, 0.7), rgba(200, 200, 200, 0.8)), url(/background1.jpeg)",
