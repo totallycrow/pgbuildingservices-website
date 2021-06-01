@@ -21,7 +21,7 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
         </Head>
-        <body className="font-monts">
+        <body className="font-monts bg-gray-100">
           <Main />
           <NextScript />
         </body>
